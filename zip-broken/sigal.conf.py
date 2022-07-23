@@ -1,6 +1,6 @@
 title = "Test Gallery"
 source = "gallery"
-theme = "photoswipe"
+theme = "galleria"
 
 img_size = (3000, 2000)
 
